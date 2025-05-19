@@ -200,11 +200,12 @@ const Contact = () => {
                     </svg>
                     <div>
                       <h4 className="font-semibold text-gold">Our Office</h4>
-                      <p className="text-gray-300">
-                        896 Bay Ridge Avenue<br />
-                        New York NY 11220<br />
-                        United States
-                      </p>
+          <p className="text-gray-300">
+            Paradise Estimating Services<br />
+            898 Bay Ridge Avenue<br />
+            Brooklyn, NY<br />
+            United States
+          </p>
                     </div>
                   </div>
                   
@@ -225,7 +226,10 @@ const Contact = () => {
                     </svg>
                     <div>
                       <h4 className="font-semibold text-gold">Phone</h4>
-                      <p className="text-gray-300">(555) 123-4567</p>
+          <p className="text-gray-300">
+            718-719-6171 (Brooklyn)<br />
+            510-335-7751 (Corporate Office)
+          </p>
                     </div>
                   </div>
                   
@@ -246,7 +250,7 @@ const Contact = () => {
                     </svg>
                     <div>
                       <h4 className="font-semibold text-gold">Email</h4>
-                      <p className="text-gray-300">info@paradiseestimating.com</p>
+                      <p className="text-gray-300">sales@paradiseestimating.com</p>
                     </div>
                   </div>
                   
