@@ -43,19 +43,19 @@ const ClientsCarousel = () => {
   }, []);
 
   const clients = [
-    { name: "ABC Construction", logo: "/public/client-1-color.jpg" },
-    { name: "XYZ Developers", logo: "/public/client-2.jpg" },
-    { name: "Metro Builders", logo: "/public/client-4.jpg" },
-    { name: "City Contractors", logo: "/public/client-5.jpg" },
-    { name: "Elite Engineers", logo: "/public/client-6.jpg" },
-    { name: "Global Construction", logo: "/public/client-7.jpg" },
-    { name: "Landmark Projects", logo: "/public/client-8.jpg" },
-    { name: "Premier Properties", logo: "/public/client-10.jpg" },
-    { name: "City Contractors", logo: "/public/client-11.jpg" },
-    { name: "Elite Engineers", logo: "/public/client-12.jpg" },
-    { name: "Global Construction", logo: "/public/client-13.jpg" },
-    { name: "Landmark Projects", logo: "/public/client-14.jpg" },
-    { name: "Premier Properties", logo: "/public/client-15.jpg" },
+    { name: "ABC Construction", logo: "/client-1-color.jpg" },
+    { name: "XYZ Developers", logo: "/client-2.jpg" },
+    { name: "Metro Builders", logo: "/client-4.jpg" },
+    { name: "City Contractors", logo: "/client-5.jpg" },
+    { name: "Elite Engineers", logo: "/client-6.jpg" },
+    { name: "Global Construction", logo: "/client-7.jpg" },
+    { name: "Landmark Projects", logo: "/client-8.jpg" },
+    { name: "Premier Properties", logo: "/client-10.jpg" },
+    { name: "City Contractors", logo: "/client-11.jpg" },
+    { name: "Elite Engineers", logo: "/client-12.jpg" },
+    { name: "Global Construction", logo: "/client-13.jpg" },
+    { name: "Landmark Projects", logo: "/client-14.jpg" },
+    { name: "Premier Properties", logo: "/client-15.jpg" },
   ];
 
   // Duplicate the clients array to create a seamless loop
