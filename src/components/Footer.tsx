@@ -10,7 +10,7 @@ const Footer = () => {
             <div className="flex items-center mb-4">
               <div className="h-10 w-10 bg-gold rounded-full flex items-center justify-center mr-2 overflow-hidden">
                 <img
-                  src="/logo.jpg"
+                  src="/logo.png"
                   alt="Paradise Estimating Logo"
                   className="h-8 w-8 object-cover rounded-full"
                 />

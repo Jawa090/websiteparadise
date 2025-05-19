@@ -42,7 +42,7 @@ const Navbar = () => {
         <div className="container mx-auto px-4 flex justify-between items-center">
           <Link to="/" className="flex items-center group">
   <img
-    src="/logo.jpg"
+    src="/logo.png"
     alt="Paradise Estimating Logo"
     className={`h-16 w-auto object-contain transition-transform duration-300 relative hidden sm:inline-block group-hover:scale-110 ${isScrolled ? '' : ''}`}
   />
